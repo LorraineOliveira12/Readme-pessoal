@@ -1,7 +1,6 @@
-<h1> Desenvolvedora de Software :) </h1>
-💻 Software Developer at Mercado Livre 💛
+<h1> Desenvolvedora de Software :) </h1
 
-<img src="https://github.com/user-attachments/assets/ef254cd6-6a64-42b3-86e6-a45764a23d38" width="20" /> AWS Certified
+<img src="https://github.com/user-attachments/assets/ef254cd6-6a64-42b3-86e6-a45764a23d38" width="20" /> 
 📚 Cursando Análise e Desenvolvimento de Sistemas
 <br>
 <div>
